@@ -1,4 +1,5 @@
 ### Hi there 👋
+邮箱sorascarlet_o@outlook.com
 
 <!--
 **SoraRoseous/SoraRoseous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
